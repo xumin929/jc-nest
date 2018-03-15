@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle jc-nest",
+        "command": "jc-nest:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "jc-nest",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "jc-nest:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

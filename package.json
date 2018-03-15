@@ -1,0 +1,18 @@
+{
+  "name": "jc-nest",
+  "main": "./lib/jc-nest",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "jc-nest:toggle"
+  },
+  "repository": "https://github.com/atom/jc-nest",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
